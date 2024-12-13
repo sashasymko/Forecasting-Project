@@ -1,0 +1,36 @@
+﻿Shop;Open_date;Change_type;Trade_area;City;Region;City area;Local_reference;Floor
+1;04.10.2018;;36,04;City15;Region1;sleeping quarters;bazaar;1
+1;20.12.2021;Extension;48,05;City15;Region1;sleeping quarters;bazaar;1
+2;12.01.2018;;30,93;City8;Region2;periphery;supermarket;1
+3;16.02.2018;;36,94;City27;Region3;centre;administrative institution;1
+4;22.01.2018;;17,42;City7;Region4;sleeping quarters;supermarket;1
+5;28.01.2018;;32,73;City28;Region5;periphery;supermarket;2
+6;27.03.2019;;32,13;City4;Region3;sleeping quarters;bazaar;2
+7;23.07.2019;;28,53;City3;Region5;centre;administrative institution;1
+8;10.10.2019;;36,94;City2;Region4;sleeping quarters;supermarket;1
+9;19.11.2019;;30,63;City16;Region6;centre;bazaar;1
+10;29.01.2020;;30,03;City25;Region7;sleeping quarters;bazaar;2
+11;21.02.2020;;31,23;City12;Region8;sleeping quarters;bazaar;1
+12;13.03.2020;;30,93;City20;Region3;centre;bazaar;-1
+13;30.07.2020;;34,46;City18;Region7;centre;bazaar;1
+13;08.02.2021;Extension;45,95;City18;Region7;sleeping quarters;bazaar;1
+14;17.10.2020;;33,63;City17;Region9;sleeping quarters;educational institution;1
+15;21.02.2021;;47,75;City21;Region10;sleeping quarters;bazaar;1
+16;26.03.2021;;36,94;City26;Region11;sleeping quarters;supermarket;1
+17;12.06.2021;;40,84;City11;Region12;centre;railway station;1
+18;24.05.2021;;45,95;City14;Region13;sleeping quarters;bazaar;1
+18;23.03.2023;Extension;61,26;City14;Region13;centre;bazaar;2
+19;29.08.2021;;28,60;City24;Region14;centre;bazaar;-1
+19;02.08.2022;Renovation;38,14;City24;Region14;centre;railway station;1
+20;11.10.2021;;49,25;City13;Region12;sleeping quarters;bazaar;1
+21;11.03.2022;;35,14;City23;Region13;centre;bazaar;1
+22;16.11.2022;;56,76;City1;Region15;sleeping quarters;supermarket;1
+23;20.05.2022;;40,24;City10;Region16;sleeping quarters;supermarket;1
+24;19.07.2022;;22,82;City15;Region1;sleeping quarters;supermarket;1
+25;24.12.2022;;42,04;City22;Region17;centre;centre;2
+26;22.11.2022;;15,54;City6;Region9;centre;centre;1
+26;01.03.2023;Renovation;20,72;City6;Region9;centre;centre;1
+27;06.02.2023;;51,05;City22;Region17;sleeping quarters;bazaar;1
+28;11.04.2023;;53,15;City19;Region7;periphery;supermarket;-1
+29;07.06.2023;;73,27;City9;Region12;sleeping quarters;supermarket;1
+30;08.10.2023;;51,95;City5;Region18;sleeping quarters;supermarket;1
